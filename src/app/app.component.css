@@ -1,0 +1,18 @@
+
+  .navbar{background-color: deepskyblue;}
+  p{text-align:center;}
+  .menu{
+    text-align: center;
+    background-color: aqua;
+
+  }
+  .list-group-item{
+    background-color: aqua;
+    border-style: none;
+  }
+  .tak{
+    background-color: white;
+  }
+.tak:hover{
+  background-color: lightpink;
+}
